@@ -1,11 +1,11 @@
 <h1 align="center">Hey, I'm Prashant Yadav</h1>
 <h3 align="center">Currently Pursuing Computer Science</h3>
 
-- 🔭 I’m currently working on **Merchandise Store**
+- 🔭 I’m currently working on **ChatBot**
 
 - 🌱 I’m currently learning **DSA, WebDev**
 
-- 👯 I’m looking to collaborate on **Merchandise Store**
+- 👯 I’m looking to collaborate on **ChatBot Project** which is a Entertainment Bot
 
 - 📫 How to reach me **prashantyadav2069@gmail.com**
 
