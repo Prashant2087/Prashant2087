@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Prashant Yadav</h1>
 <h3 align="center">Currently Pursuing Computer Science</h3>
 
-- 🔭 I’m currently working on **ChatBot**
+- 🔭 I’m currently working on **Product Price Tracker Application**
 
 - 🌱 I’m currently learning **DSA, WebDev**
 
